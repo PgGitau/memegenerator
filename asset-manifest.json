@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/memegenerator/static/css/main.fd208295.css",
-    "main.js": "/memegenerator/static/js/main.6272ad17.js",
+    "main.css": "/memegenerator/static/css/main.ba226ffb.css",
+    "main.js": "/memegenerator/static/js/main.c72e1d12.js",
     "static/js/787.da67c08e.chunk.js": "/memegenerator/static/js/787.da67c08e.chunk.js",
     "static/media/TrollFace.png": "/memegenerator/static/media/TrollFace.69bf599bcfbfb883d735.png",
     "index.html": "/memegenerator/index.html",
-    "main.fd208295.css.map": "/memegenerator/static/css/main.fd208295.css.map",
-    "main.6272ad17.js.map": "/memegenerator/static/js/main.6272ad17.js.map",
+    "main.ba226ffb.css.map": "/memegenerator/static/css/main.ba226ffb.css.map",
+    "main.c72e1d12.js.map": "/memegenerator/static/js/main.c72e1d12.js.map",
     "787.da67c08e.chunk.js.map": "/memegenerator/static/js/787.da67c08e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd208295.css",
-    "static/js/main.6272ad17.js"
+    "static/css/main.ba226ffb.css",
+    "static/js/main.c72e1d12.js"
   ]
 }
