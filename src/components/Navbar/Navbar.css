@@ -1,0 +1,20 @@
+.navbar-container {
+    /* border: 2px solid blue; */
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    padding: .5rem;
+    display: flex;
+    align-items: center;
+}
+/* .logo {
+    border: 2px solid red;
+} */
+.logo img {
+    height: 50px;
+    display: block;
+}
+.navbar-container h1 {
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 700;
+    color: white;
+}
