@@ -1,18 +1,29 @@
 .form-container{
-    padding: 36px;
+    padding: 6px;
+    border: 2px solid blue;
 }
 .form {
     display: grid;
-    grid-template: 40px 40px / 1fr 1fr;
-    gap: 17px;
-    border: 2px solid red;
+    height: 100px;
+    width: 100%;
+    grid-template: 50px .9fr / 1fr 1fr;
+    grid-template-areas: "input1 input2"
+                         "button button";
+    gap: 7px;
+    /* border: 2px solid red; */
 }
-
+.input1 {
+    grid-area: input1;
+}
+.input2 {
+    grid-area: input2;
+}
 .form-input {
     font-family: "Karla", sans-serif;
     border-radius: 5px;
     border: 1px solid #D5D4D8;
-    text-indent: 5px;
+    min-width: 0;
+    /* text-indent: 5px; */
 }
 
 .form-button {

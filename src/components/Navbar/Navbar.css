@@ -18,3 +18,18 @@
     font-weight: 700;
     color: white;
 }
+
+/* media queries */
+@media (max-width: 640px) {
+    .logo img {
+        /* border: 2px solid red; */
+        height: 35px;
+        display: block;
+    }
+    .navbar-container h1 {
+        font-size: 17px;
+        line-height: 24px;
+        font-weight: 700;
+        color: white;
+    }
+}
