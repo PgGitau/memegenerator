@@ -42,8 +42,12 @@
 
 .meme--image {
     /* display: block; */
+    max-height: 600px;
+    /* border: 2px solid red; */
     width: 100%;
     border-radius: 3px;
+    object-fit: contain;
+    object-position: center;
 }
 
 .meme--text {
